@@ -1,4 +1,4 @@
-I am a second year student at MNIT Jaipur pursuing my btech in electronics and communications engineering. A programmer with good problem solving skills and a good hold on data structures and algorithms in c and c++. Interested in Web designing and development.
+I am a third year student at MNIT Jaipur pursuing my btech in electronics and communications engineering. A programmer with good problem solving skills and a good hold on data structures and algorithms in c and c++. Interested in Web designing and development.
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pranjal_sharma_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjal-sharma-199a25227) 
